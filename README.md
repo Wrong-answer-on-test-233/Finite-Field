@@ -1,7 +1,7 @@
 # Finite-Field
 **Update #1 on Apr 23rd, 2023.**
 
-I have been learning the book *Finite Field* written by a great mathematician **Rudolf Lidl** for a whole semester. 
+I have been learning the book *Finite Field* written by the great mathematician **Rudolf Lidl** for a whole semester. 
 
 This book is quite good and can be easily understood by students majored in CS who are going to do some research in Codes. Here is my learning notes on this book written in Chinese. 
 
