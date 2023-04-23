@@ -17,6 +17,6 @@ Here is the brief introduction of this book:
 
 **Chapter 4** is about some algorithms to factorize the polynomials. The notes in Chinese will be uploaded after a quite long time. If you are interested about such algorithms, you can refer to the file *FULLTEXT01* provided by the **School of Computer Science, Physics and Mathematics of Linnaeus University**, which is now a public material.
 
-**Chapter 5** is about the Exponential Sums. It seems that there's quite little material about this. I haven't finished this part of learning. It will be uploaded within a month.
+**Chapter 5** is about the Exponential Sums. It seems that there's quite little material about this. I haven't finished this part of learning. Here is an incomplete version. The completed version will be uploaded within a month.
 
 If you have any questions, please feel free to contact me by 51255902065@stu.ecnu.edu.cn. If you want to share it on other public platforms like Zhihu, please share this Repository at the same time.
