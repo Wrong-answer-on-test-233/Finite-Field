@@ -15,7 +15,7 @@ Chapter 2 is about the structure of Finite Field including traces, norms and bas
 
 Chapter 3 is about the polynomials over Finite Fields especially the irreducible polynomials and linearized polynomials.
 
-Chapter 4 is about some algorithms to factorize the polynomials. The notes in Chinese will be uploaded after a quite long time. If you are interested about such algorithms, you can refer to the file *FULLTEXT01*.
+Chapter 4 is about some algorithms to factorize the polynomials. The notes in Chinese will be uploaded after a quite long time. If you are interested about such algorithms, you can refer to the file *FULLTEXT01* provided by the **School of Computer Science, Physics and Mathematics of Linnaeus University**, which is now a public material.
 
 Chapter 5 is about the Exponential Sums. It seems that there's quite little material about this. I haven't finished this part of learning. It will be uploaded within a month.
 
