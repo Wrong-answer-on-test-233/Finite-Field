@@ -1,5 +1,4 @@
-# Finite-Field
-**Update #1 on Apr 23rd, 2023.**
+# Update #1 on Apr 23rd, 2023.
 
 I have been learning the book *Finite Field* written by the great mathematician **Rudolf Lidl** for a whole semester. 
 
