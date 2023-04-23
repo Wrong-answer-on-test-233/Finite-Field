@@ -20,3 +20,6 @@ Here is the brief introduction of this book:
 **Chapter 5** is about the Exponential Sums. It seems that there's quite little material about this. I haven't finished this part of learning. Here is an incomplete version. The completed version will be uploaded within a month.
 
 If you have any questions, please feel free to contact me by 51255902065@stu.ecnu.edu.cn. If you want to share it on other public platforms like Zhihu, please share this Repository at the same time.
+
+# REFERENCE
+Lidl, Rudolf; Niederreiter, Harald (1997), Finite Fields (2nd ed.), Cambridge University Press, ISBN 0-521-39231-4
