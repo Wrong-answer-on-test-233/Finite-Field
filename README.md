@@ -21,7 +21,7 @@ Here is the brief introduction of this book:
 If you have any questions, please feel free to contact me by 51255902065@stu.ecnu.edu.cn. If you want to share it on other public platforms like Zhihu, please share this Repository at the same time.
 
 # Update #2 on May 5th, 2023.
-The complete version of ** Chapter 5** has been uploaded. For the knowledge of Continued Fraction is not that useful in my research field, such notes do not exists, which means notes after Theorem 5.52 do not exists.
+The complete version of **Chapter 5** has been uploaded. For the knowledge of Continued Fraction is not that useful in my research field, such notes do not exists, which means notes after Theorem 5.52 do not exists.
 
 # REFERENCE
 Lidl, Rudolf; Niederreiter, Harald (1997), Finite Fields (2nd ed.), Cambridge University Press, ISBN 0-521-39231-4
