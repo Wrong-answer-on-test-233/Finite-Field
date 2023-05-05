@@ -18,7 +18,7 @@ Here is the brief introduction of this book:
 
 **Chapter 5** is about the Exponential Sums. It seems that there's quite little material about this. I haven't finished this part of learning. Here is an incomplete version. The completed version will be uploaded within a month.
 
-If you have any questions, please feel free to contact me by 51255902065@stu.ecnu.edu.cn. If you want to share it on other public platforms like Zhihu, please share this Repository at the same time.
+If you have any questions, please feel free to contact me. If you want to share it on other public platforms like Zhihu, please share this Repository at the same time.
 
 # Update #2 on May 5th, 2023.
 The complete version of **Chapter 5** has been uploaded. For the knowledge of Continued Fraction is not that useful in my research field, such notes do not exists, which means notes after Theorem 5.52 do not exists.
